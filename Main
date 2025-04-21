@@ -1,0 +1,7 @@
+CloudCouponHunter/
+├── main.py           # Fő szkript, ami a botot futtatja
+├── scraper.py        # Web scraper modul a kuponok kereséséhez
+├── notifier.py       # Telegram és email értesítések
+├── requirements.txt  # Python függőségek (pl. requests, beautifulsoup4, python-telegram-bot)
+├── .env             # Környezeti változók sablonja
+└── README.md        # Telepítési és használati útmutató
