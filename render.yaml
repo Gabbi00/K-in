@@ -3,7 +3,7 @@ services:
   - type: web
     name: coupon-hunter
     env: python
-    region: europe
+    region: oregon
     plan: free
     branch: main
     buildCommand: pip install -r requirements.txt
